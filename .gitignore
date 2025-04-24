@@ -1,2 +1,8 @@
 .env
 venv
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
